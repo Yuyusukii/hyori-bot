@@ -1,0 +1,16 @@
+.env
+.env.local
+.venv/
+__pycache__/
+*.py[cod]
+*.db-journal
+*.db-shm
+*.db-wal
+
+# dados locais e arquivos de teste
+*.db
+backup_*/
+/hf_test_*.png
+/perfil_preview.png
+personagens_gacha_cache.json
+*.log
