@@ -290,7 +290,7 @@ Veja todas no [`.env.example`](.env.example).
 </p>
 
 <p align="center">
-<sub>feito por <a href="https://github.com/Yuyusukii">Yukki</a> · só um teste, não vai ao ar 💜</sub>
+<sub>feito por <a href="https://github.com/Yuyusukii">Yukki</a> · 2026 · só um teste, não vai ao ar 💜</sub>
 </p>
 
 <p align="center">
